@@ -1,0 +1,2512 @@
+fileFormatVersion: 2
+guid: 4fe08431c4f33624e886fa7843654ab0
+timeCreated: 1457060783
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-Layout-Ideas-HighRes_0
+    21300002: UI-Layout-Ideas-HighRes_1
+    21300004: UI-Layout-Ideas-HighRes_2
+    21300006: UI-Layout-Ideas-HighRes_3
+    21300008: UI-Layout-Ideas-HighRes_4
+    21300010: UI-Layout-Ideas-HighRes_5
+    21300012: UI-Layout-Ideas-HighRes_6
+    21300014: UI-Layout-Ideas-HighRes_7
+    21300016: UI-Layout-Ideas-HighRes_8
+    21300018: UI-Layout-Ideas-HighRes_9
+    21300020: UI-Layout-Ideas-HighRes_10
+    21300022: UI-Layout-Ideas-HighRes_11
+    21300024: UI-Layout-Ideas-HighRes_12
+    21300026: UI-Layout-Ideas-HighRes_13
+    21300028: UI-Layout-Ideas-HighRes_14
+    21300030: UI-Layout-Ideas-HighRes_15
+    21300032: UI-Layout-Ideas-HighRes_16
+    21300034: UI-Layout-Ideas-HighRes_17
+    21300036: UI-Layout-Ideas-HighRes_18
+    21300038: UI-Layout-Ideas-HighRes_19
+    21300040: UI-Layout-Ideas-HighRes_20
+    21300042: UI-Layout-Ideas-HighRes_21
+    21300044: UI-Layout-Ideas-HighRes_22
+    21300046: UI-Layout-Ideas-HighRes_23
+    21300048: UI-Layout-Ideas-HighRes_24
+    21300050: UI-Layout-Ideas-HighRes_25
+    21300052: UI-Layout-Ideas-HighRes_26
+    21300054: UI-Layout-Ideas-HighRes_27
+    21300056: UI-Layout-Ideas-HighRes_28
+    21300058: UI-Layout-Ideas-HighRes_29
+    21300060: UI-Layout-Ideas-HighRes_30
+    21300062: UI-Layout-Ideas-HighRes_31
+    21300064: UI-Layout-Ideas-HighRes_32
+    21300066: UI-Layout-Ideas-HighRes_33
+    21300068: UI-Layout-Ideas-HighRes_34
+    21300070: UI-Layout-Ideas-HighRes_35
+    21300072: UI-Layout-Ideas-HighRes_36
+    21300074: UI-Layout-Ideas-HighRes_37
+    21300076: UI-Layout-Ideas-HighRes_38
+    21300078: UI-Layout-Ideas-HighRes_39
+    21300080: UI-Layout-Ideas-HighRes_40
+    21300082: UI-Layout-Ideas-HighRes_41
+    21300084: UI-Layout-Ideas-HighRes_42
+    21300086: UI-Layout-Ideas-HighRes_43
+    21300088: UI-Layout-Ideas-HighRes_44
+    21300090: UI-Layout-Ideas-HighRes_45
+    21300092: UI-Layout-Ideas-HighRes_46
+    21300094: UI-Layout-Ideas-HighRes_47
+    21300096: UI-Layout-Ideas-HighRes_48
+    21300098: UI-Layout-Ideas-HighRes_49
+    21300100: UI-Layout-Ideas-HighRes_50
+    21300102: UI-Layout-Ideas-HighRes_51
+    21300104: UI-Layout-Ideas-HighRes_52
+    21300106: UI-Layout-Ideas-HighRes_53
+    21300108: UI-Layout-Ideas-HighRes_54
+    21300110: UI-Layout-Ideas-HighRes_55
+    21300112: UI-Layout-Ideas-HighRes_56
+    21300114: UI-Layout-Ideas-HighRes_57
+    21300116: UI-Layout-Ideas-HighRes_58
+    21300118: UI-Layout-Ideas-HighRes_59
+    21300120: UI-Layout-Ideas-HighRes_60
+    21300122: UI-Layout-Ideas-HighRes_61
+    21300124: UI-Layout-Ideas-HighRes_62
+    21300126: UI-Layout-Ideas-HighRes_63
+    21300128: UI-Layout-Ideas-HighRes_64
+    21300130: UI-Layout-Ideas-HighRes_65
+    21300132: UI-Layout-Ideas-HighRes_66
+    21300134: UI-Layout-Ideas-HighRes_67
+    21300136: UI-Layout-Ideas-HighRes_68
+    21300138: UI-Layout-Ideas-HighRes_69
+    21300140: UI-Layout-Ideas-HighRes_70
+    21300142: UI-Layout-Ideas-HighRes_71
+    21300144: UI-Layout-Ideas-HighRes_72
+    21300146: UI-Layout-Ideas-HighRes_73
+    21300148: UI-Layout-Ideas-HighRes_74
+    21300150: UI-Layout-Ideas-HighRes_75
+    21300152: UI-Layout-Ideas-HighRes_76
+    21300154: UI-Layout-Ideas-HighRes_77
+    21300156: UI-Layout-Ideas-HighRes_78
+    21300158: UI-Layout-Ideas-HighRes_79
+    21300160: UI-Layout-Ideas-HighRes_80
+    21300162: UI-Layout-Ideas-HighRes_81
+    21300164: UI-Layout-Ideas-HighRes_82
+    21300166: UI-Layout-Ideas-HighRes_83
+    21300168: UI-Layout-Ideas-HighRes_84
+    21300170: UI-Layout-Ideas-HighRes_85
+    21300172: UI-Layout-Ideas-HighRes_86
+    21300174: UI-Layout-Ideas-HighRes_87
+    21300176: UI-Layout-Ideas-HighRes_88
+    21300178: UI-Layout-Ideas-HighRes_89
+    21300180: UI-Layout-Ideas-HighRes_90
+    21300182: UI-Layout-Ideas-HighRes_91
+    21300184: UI-Layout-Ideas-HighRes_92
+    21300186: UI-Layout-Ideas-HighRes_93
+    21300188: UI-Layout-Ideas-HighRes_94
+    21300190: UI-Layout-Ideas-HighRes_95
+    21300192: UI-Layout-Ideas-HighRes_96
+    21300194: UI-Layout-Ideas-HighRes_97
+    21300196: UI-Layout-Ideas-HighRes_98
+    21300198: UI-Layout-Ideas-HighRes_99
+    21300200: UI-Layout-Ideas-HighRes_100
+    21300202: UI-Layout-Ideas-HighRes_101
+    21300204: UI-Layout-Ideas-HighRes_102
+    21300206: UI-Layout-Ideas-HighRes_103
+    21300208: UI-Layout-Ideas-HighRes_104
+    21300210: UI-Layout-Ideas-HighRes_105
+    21300212: UI-Layout-Ideas-HighRes_106
+    21300214: UI-Layout-Ideas-HighRes_107
+    21300216: UI-Layout-Ideas-HighRes_108
+    21300218: UI-Layout-Ideas-HighRes_109
+    21300220: UI-Layout-Ideas-HighRes_110
+    21300222: UI-Layout-Ideas-HighRes_111
+    21300224: UI-Layout-Ideas-HighRes_112
+    21300226: UI-Layout-Ideas-HighRes_113
+    21300228: UI-Layout-Ideas-HighRes_114
+    21300230: UI-Layout-Ideas-HighRes_115
+    21300232: UI-Layout-Ideas-HighRes_116
+    21300234: UI-Layout-Ideas-HighRes_117
+    21300236: UI-Layout-Ideas-HighRes_118
+    21300238: UI-Layout-Ideas-HighRes_119
+    21300240: UI-Layout-Ideas-HighRes_120
+    21300242: UI-Layout-Ideas-HighRes_121
+    21300244: UI-Layout-Ideas-HighRes_122
+    21300246: UI-Layout-Ideas-HighRes_123
+    21300248: UI-Layout-Ideas-HighRes_124
+    21300250: UI-Layout-Ideas-HighRes_125
+    21300252: UI-Layout-Ideas-HighRes_126
+    21300254: UI-Layout-Ideas-HighRes_127
+    21300256: UI-Layout-Ideas-HighRes_128
+    21300258: UI-Layout-Ideas-HighRes_129
+    21300260: UI-Layout-Ideas-HighRes_130
+    21300262: UI-Layout-Ideas-HighRes_131
+    21300264: UI-Layout-Ideas-HighRes_132
+    21300266: UI-Layout-Ideas-HighRes_133
+    21300268: UI-Layout-Ideas-HighRes_134
+    21300270: UI-Layout-Ideas-HighRes_135
+    21300272: UI-Layout-Ideas-HighRes_136
+    21300274: UI-Layout-Ideas-HighRes_137
+    21300276: UI-Layout-Ideas-HighRes_138
+    21300278: UI-Layout-Ideas-HighRes_139
+    21300280: UI-Layout-Ideas-HighRes_140
+    21300282: UI-Layout-Ideas-HighRes_141
+    21300284: UI-Layout-Ideas-HighRes_142
+    21300286: UI-Layout-Ideas-HighRes_143
+    21300288: UI-Layout-Ideas-HighRes_144
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-Layout-Ideas-HighRes_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2288
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.99333, y: 35.71338}
+        - {x: -132.99333, y: -35.28662}
+        - {x: 134.00667, y: -35.28662}
+        - {x: 134.00667, y: 32.71338}
+        - {x: 131.00667, y: 35.71338}
+    - name: UI-Layout-Ideas-HighRes_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2288
+        width: 624
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.15332, y: 35.71338}
+        - {x: -133.15332, y: 32.71338}
+        - {x: -133.15332, y: -32.28662}
+        - {x: -129.15332, y: -35.28662}
+        - {x: 133.84668, y: -35.28662}
+        - {x: 133.84668, y: 32.71338}
+        - {x: 130.84668, y: 35.71338}
+    - name: UI-Layout-Ideas-HighRes_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2288
+        width: 624
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.16663, y: 33.21338}
+        - {x: -133.16663, y: 31.213379}
+        - {x: -133.16663, y: -32.78662}
+        - {x: 130.83337, y: -32.78662}
+        - {x: 133.83337, y: -29.786621}
+        - {x: 133.83337, y: 31.213379}
+        - {x: 130.83337, y: 33.21338}
+    - name: UI-Layout-Ideas-HighRes_3
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2288
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.89996, y: 35.71338}
+        - {x: -132.89996, y: 33.71338}
+        - {x: -132.89996, y: -35.28662}
+        - {x: 132.10004, y: -35.28662}
+        - {x: 134.10004, y: -32.28662}
+        - {x: 134.10004, y: 32.71338}
+        - {x: 131.10004, y: 35.71338}
+    - name: UI-Layout-Ideas-HighRes_4
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 2288
+        width: 624
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.05994, y: 33.21338}
+        - {x: -133.05994, y: -32.78662}
+        - {x: 133.94006, y: -32.78662}
+        - {x: 133.94006, y: 33.21338}
+    - name: UI-Layout-Ideas-HighRes_5
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2288
+        width: 621
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.29333, y: 35.71338}
+        - {x: -132.29333, y: -33.28662}
+        - {x: -129.29333, y: -35.28662}
+        - {x: 130.70667, y: -35.28662}
+        - {x: 133.70667, y: -33.28662}
+        - {x: 133.70667, y: 33.71338}
+        - {x: 132.70667, y: 35.71338}
+    - name: UI-Layout-Ideas-HighRes_6
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2288
+        width: 621
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.45325, y: 33.21338}
+        - {x: -132.45325, y: 32.21338}
+        - {x: -132.45325, y: -32.78662}
+        - {x: 133.54675, y: -32.78662}
+        - {x: 133.54675, y: 32.21338}
+        - {x: 131.54675, y: 33.21338}
+    - name: UI-Layout-Ideas-HighRes_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2093
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.99333, y: 35.013367}
+        - {x: -132.99333, y: -32.986633}
+        - {x: -131.99333, y: -34.986633}
+        - {x: 132.00667, y: -34.986633}
+        - {x: 134.00667, y: -33.986633}
+        - {x: 134.00667, y: 35.013367}
+    - name: UI-Layout-Ideas-HighRes_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2093
+        width: 624
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.15332, y: 35.013367}
+        - {x: -133.15332, y: -34.986633}
+        - {x: 130.84668, y: -34.986633}
+        - {x: 133.84668, y: -31.986633}
+        - {x: 133.84668, y: 33.013367}
+        - {x: 132.84668, y: 35.013367}
+    - name: UI-Layout-Ideas-HighRes_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2093
+        width: 624
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.16663, y: 32.513367}
+        - {x: -133.16663, y: 30.513367}
+        - {x: -133.16663, y: -30.486633}
+        - {x: -132.16663, y: -32.486633}
+        - {x: 133.83337, y: -32.486633}
+        - {x: 133.83337, y: 30.513367}
+        - {x: 130.83337, y: 32.513367}
+    - name: UI-Layout-Ideas-HighRes_10
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2093
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.89996, y: 35.013367}
+        - {x: -132.89996, y: -31.986633}
+        - {x: -129.89996, y: -34.986633}
+        - {x: 134.10004, y: -34.986633}
+        - {x: 134.10004, y: 35.013367}
+    - name: UI-Layout-Ideas-HighRes_11
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 2093
+        width: 624
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.05994, y: 32.513367}
+        - {x: -133.05994, y: -31.486633}
+        - {x: -130.05994, y: -32.486633}
+        - {x: 130.94006, y: -32.486633}
+        - {x: 133.94006, y: -28.486633}
+        - {x: 133.94006, y: 30.513367}
+        - {x: 132.94006, y: 32.513367}
+    - name: UI-Layout-Ideas-HighRes_12
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2093
+        width: 621
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.29333, y: 35.013367}
+        - {x: -132.29333, y: 33.013367}
+        - {x: -132.29333, y: -32.986633}
+        - {x: -131.29333, y: -34.986633}
+        - {x: 132.70667, y: -34.986633}
+        - {x: 133.70667, y: -32.986633}
+        - {x: 133.70667, y: 35.013367}
+    - name: UI-Layout-Ideas-HighRes_13
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2093
+        width: 621
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.45325, y: 32.513367}
+        - {x: -132.45325, y: 31.513367}
+        - {x: -132.45325, y: -32.486633}
+        - {x: 133.54675, y: -32.486633}
+        - {x: 133.54675, y: 31.513367}
+        - {x: 132.54675, y: 32.513367}
+    - name: UI-Layout-Ideas-HighRes_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1897
+        width: 623
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.99333, y: 36.386658}
+        - {x: -132.99333, y: -35.613342}
+        - {x: 134.00667, y: -35.613342}
+        - {x: 134.00667, y: 34.386658}
+        - {x: 132.00667, y: 36.386658}
+    - name: UI-Layout-Ideas-HighRes_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1897
+        width: 624
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.15332, y: 36.386658}
+        - {x: -133.15332, y: -35.613342}
+        - {x: 129.84668, y: -35.613342}
+        - {x: 133.84668, y: -32.613342}
+        - {x: 133.84668, y: 33.386658}
+        - {x: 128.84668, y: 36.386658}
+    - name: UI-Layout-Ideas-HighRes_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1897
+        width: 624
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.16663, y: 33.386658}
+        - {x: -131.16663, y: 31.386658}
+        - {x: -133.16663, y: 28.386658}
+        - {x: -133.16663, y: -29.613342}
+        - {x: -129.16663, y: -32.613342}
+        - {x: 133.83337, y: -32.613342}
+        - {x: 133.83337, y: 33.386658}
+    - name: UI-Layout-Ideas-HighRes_17
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1897
+        width: 623
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.89996, y: 36.386658}
+        - {x: -132.89996, y: 32.386658}
+        - {x: -132.89996, y: -32.613342}
+        - {x: -129.89996, y: -35.613342}
+        - {x: 134.10004, y: -35.613342}
+        - {x: 134.10004, y: 36.386658}
+    - name: UI-Layout-Ideas-HighRes_18
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1897
+        width: 624
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.05994, y: 33.386658}
+        - {x: -133.05994, y: -32.613342}
+        - {x: 133.94006, y: -32.613342}
+        - {x: 133.94006, y: 33.386658}
+    - name: UI-Layout-Ideas-HighRes_19
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1897
+        width: 621
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.29333, y: 36.386658}
+        - {x: -132.29333, y: 33.386658}
+        - {x: -132.29333, y: -33.613342}
+        - {x: -129.29333, y: -35.613342}
+        - {x: 131.70667, y: -35.613342}
+        - {x: 133.70667, y: -32.613342}
+        - {x: 133.70667, y: 33.386658}
+        - {x: 130.70667, y: 36.386658}
+    - name: UI-Layout-Ideas-HighRes_20
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1897
+        width: 621
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.45325, y: 33.386658}
+        - {x: -132.45325, y: 32.386658}
+        - {x: -132.45325, y: -30.613342}
+        - {x: -130.45325, y: -32.613342}
+        - {x: 133.54675, y: -32.613342}
+        - {x: 133.54675, y: 33.386658}
+    - name: UI-Layout-Ideas-HighRes_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1702
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.99333, y: 35.686707}
+        - {x: -132.99333, y: -35.313293}
+        - {x: 132.00667, y: -35.313293}
+        - {x: 134.00667, y: -32.313293}
+        - {x: 134.00667, y: 32.686707}
+        - {x: 132.00667, y: 35.686707}
+    - name: UI-Layout-Ideas-HighRes_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1702
+        width: 624
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.15332, y: 35.686707}
+        - {x: -133.15332, y: -35.313293}
+        - {x: 131.84668, y: -35.313293}
+        - {x: 133.84668, y: -32.313293}
+        - {x: 133.84668, y: 34.686707}
+        - {x: 132.84668, y: 35.686707}
+    - name: UI-Layout-Ideas-HighRes_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1702
+        width: 624
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.16663, y: 32.686707}
+        - {x: -133.16663, y: -32.313293}
+        - {x: 133.83337, y: -32.313293}
+        - {x: 133.83337, y: 32.686707}
+    - name: UI-Layout-Ideas-HighRes_24
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1702
+        width: 623
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.89996, y: 35.686707}
+        - {x: -132.89996, y: 31.686707}
+        - {x: -132.89996, y: -35.313293}
+        - {x: 134.10004, y: -35.313293}
+        - {x: 134.10004, y: 33.686707}
+        - {x: 131.10004, y: 35.686707}
+    - name: UI-Layout-Ideas-HighRes_25
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1702
+        width: 624
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.05994, y: 32.686707}
+        - {x: -133.05994, y: -32.313293}
+        - {x: 133.94006, y: -32.313293}
+        - {x: 133.94006, y: 29.686707}
+        - {x: 130.94006, y: 32.686707}
+    - name: UI-Layout-Ideas-HighRes_26
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1702
+        width: 621
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.29333, y: 35.686707}
+        - {x: -132.29333, y: -33.313293}
+        - {x: -128.29333, y: -35.313293}
+        - {x: 133.70667, y: -35.313293}
+        - {x: 133.70667, y: 35.686707}
+    - name: UI-Layout-Ideas-HighRes_27
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1702
+        width: 621
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.45325, y: 32.686707}
+        - {x: -132.45325, y: 31.686707}
+        - {x: -132.45325, y: -30.313293}
+        - {x: -129.45325, y: -32.313293}
+        - {x: 133.54675, y: -32.313293}
+        - {x: 133.54675, y: 32.686707}
+    - name: UI-Layout-Ideas-HighRes_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1505
+        width: 623
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.99333, y: 36.13336}
+        - {x: -132.99333, y: 34.13336}
+        - {x: -132.99333, y: -33.86664}
+        - {x: -128.99333, y: -35.86664}
+        - {x: 131.00667, y: -35.86664}
+        - {x: 134.00667, y: -33.86664}
+        - {x: 134.00667, y: 36.13336}
+    - name: UI-Layout-Ideas-HighRes_29
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1505
+        width: 624
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.15332, y: 36.13336}
+        - {x: -133.15332, y: 33.13336}
+        - {x: -133.15332, y: -35.86664}
+        - {x: 133.84668, y: -35.86664}
+        - {x: 133.84668, y: 33.13336}
+        - {x: 129.84668, y: 36.13336}
+    - name: UI-Layout-Ideas-HighRes_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1505
+        width: 624
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.16663, y: 33.13336}
+        - {x: -133.16663, y: -32.86664}
+        - {x: 131.83337, y: -32.86664}
+        - {x: 133.83337, y: -31.866638}
+        - {x: 133.83337, y: 33.13336}
+    - name: UI-Layout-Ideas-HighRes_31
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1505
+        width: 623
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.89996, y: 36.13336}
+        - {x: -132.89996, y: 32.13336}
+        - {x: -132.89996, y: -35.86664}
+        - {x: 133.10004, y: -35.86664}
+        - {x: 134.10004, y: -33.86664}
+        - {x: 134.10004, y: 34.13336}
+        - {x: 131.10004, y: 36.13336}
+    - name: UI-Layout-Ideas-HighRes_32
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1505
+        width: 624
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.05994, y: 33.13336}
+        - {x: -133.05994, y: 30.133362}
+        - {x: -133.05994, y: -29.866638}
+        - {x: -129.05994, y: -32.86664}
+        - {x: 133.94006, y: -32.86664}
+        - {x: 133.94006, y: 33.13336}
+    - name: UI-Layout-Ideas-HighRes_33
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1505
+        width: 621
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.29333, y: 36.13336}
+        - {x: -132.29333, y: -35.86664}
+        - {x: 129.70667, y: -35.86664}
+        - {x: 133.70667, y: -32.86664}
+        - {x: 133.70667, y: 34.13336}
+        - {x: 131.70667, y: 36.13336}
+    - name: UI-Layout-Ideas-HighRes_34
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1505
+        width: 621
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.45325, y: 33.13336}
+        - {x: -132.45325, y: -32.86664}
+        - {x: 133.54675, y: -32.86664}
+        - {x: 133.54675, y: 33.13336}
+    - name: UI-Layout-Ideas-HighRes_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1112
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.49333, y: 71.45334}
+        - {x: -70.49333, y: -67.54666}
+        - {x: -66.49333, y: -70.54666}
+        - {x: 67.50667, y: -70.54666}
+        - {x: 71.50667, y: -66.54666}
+        - {x: 71.50667, y: 71.45334}
+    - name: UI-Layout-Ideas-HighRes_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1112
+        width: 330
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.38666, y: 71.45334}
+        - {x: -70.38666, y: 67.45334}
+        - {x: -70.38666, y: -70.54666}
+        - {x: 71.61334, y: -70.54666}
+        - {x: 71.61334, y: 69.45334}
+        - {x: 69.61334, y: 71.45334}
+    - name: UI-Layout-Ideas-HighRes_37
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1112
+        width: 331
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.706665, y: 71.45334}
+        - {x: -70.706665, y: 69.45334}
+        - {x: -70.706665, y: -70.54666}
+        - {x: 70.293335, y: -70.54666}
+        - {x: 71.293335, y: -69.54666}
+        - {x: 71.293335, y: 71.45334}
+    - name: UI-Layout-Ideas-HighRes_38
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1112
+        width: 331
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.599976, y: 71.45334}
+        - {x: -70.599976, y: -70.54666}
+        - {x: 69.400024, y: -70.54666}
+        - {x: 71.400024, y: -68.54666}
+        - {x: 71.400024, y: 68.45334}
+        - {x: 67.400024, y: 71.45334}
+    - name: UI-Layout-Ideas-HighRes_39
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1112
+        width: 328
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.86005, y: 71.45334}
+        - {x: -67.13995, y: 71.45334}
+        - {x: -70.13995, y: 69.45334}
+        - {x: -70.13995, y: -70.54666}
+        - {x: 66.86005, y: -70.54666}
+        - {x: 67.86005, y: -69.54666}
+        - {x: 70.86005, y: -65.54666}
+        - {x: 70.86005, y: 67.45334}
+    - name: UI-Layout-Ideas-HighRes_40
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1257
+        width: 635
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.53333, y: 35.320007}
+        - {x: -135.53333, y: 31.320007}
+        - {x: -135.53333, y: -32.679993}
+        - {x: -132.53333, y: -34.679993}
+        - {x: 133.46667, y: -34.679993}
+        - {x: 136.46667, y: -31.679993}
+        - {x: 136.46667, y: 33.320007}
+        - {x: 132.46667, y: 35.320007}
+    - name: UI-Layout-Ideas-HighRes_41
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1402
+        width: 624
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_42
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1088
+        width: 16
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_43
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 1301
+        width: 621
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.45325, y: 35.593323}
+        - {x: -132.45325, y: -35.406677}
+        - {x: 130.54675, y: -35.406677}
+        - {x: 133.54675, y: -33.406677}
+        - {x: 133.54675, y: 35.593323}
+    - name: UI-Layout-Ideas-HighRes_44
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1334
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 898
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.506668, y: 26.646667}
+        - {x: -8.493332, y: 26.646667}
+        - {x: -18.493332, y: 22.646667}
+        - {x: -25.493332, y: 15.6466675}
+        - {x: -25.493332, y: -14.3533325}
+        - {x: -24.493332, y: -19.353333}
+        - {x: -19.493332, y: -26.353333}
+        - {x: 20.506668, y: -26.353333}
+        - {x: 26.506668, y: -14.3533325}
+        - {x: 26.506668, y: 14.6466675}
+        - {x: 25.506668, y: 19.646667}
+    - name: UI-Layout-Ideas-HighRes_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 898
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.87333, y: 26.646667}
+        - {x: -25.87333, y: 17.646667}
+        - {x: -25.87333, y: -15.3533325}
+        - {x: -13.873329, y: -26.353333}
+        - {x: 18.12667, y: -26.353333}
+        - {x: 27.12667, y: -16.353333}
+        - {x: 27.12667, y: 13.6466675}
+        - {x: 20.12667, y: 26.646667}
+    - name: UI-Layout-Ideas-HighRes_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 898
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.399994, y: 26.646667}
+        - {x: -25.399994, y: 15.6466675}
+        - {x: -25.399994, y: -23.353333}
+        - {x: -20.399994, y: -26.353333}
+        - {x: 21.600006, y: -26.353333}
+        - {x: 26.600006, y: -17.353333}
+        - {x: 26.600006, y: 20.646667}
+        - {x: 20.600006, y: 26.646667}
+    - name: UI-Layout-Ideas-HighRes_48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 898
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.793335, y: 26.646667}
+        - {x: -22.206665, y: 26.646667}
+        - {x: -26.206665, y: 15.6466675}
+        - {x: -26.206665, y: -20.353333}
+        - {x: -18.206665, y: -26.353333}
+        - {x: 15.793335, y: -26.353333}
+        - {x: 26.793335, y: -13.3533325}
+        - {x: 26.793335, y: 14.6466675}
+        - {x: 25.793335, y: 18.646667}
+    - name: UI-Layout-Ideas-HighRes_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 898
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.306671, y: 26.646667}
+        - {x: -25.306671, y: 15.6466675}
+        - {x: -25.306671, y: -9.3533325}
+        - {x: -24.306671, y: -12.3533325}
+        - {x: -17.306671, y: -22.353333}
+        - {x: -11.306671, y: -26.353333}
+        - {x: 14.693329, y: -26.353333}
+        - {x: 26.693329, y: -18.353333}
+        - {x: 26.693329, y: 21.646667}
+        - {x: 25.693329, y: 26.646667}
+    - name: UI-Layout-Ideas-HighRes_50
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 898
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.613312, y: 26.646667}
+        - {x: -25.613312, y: 13.6466675}
+        - {x: -25.613312, y: -16.353333}
+        - {x: -10.613312, y: -26.353333}
+        - {x: 15.386688, y: -26.353333}
+        - {x: 26.386688, y: -12.3533325}
+        - {x: 26.386688, y: 17.646667}
+        - {x: 12.386688, y: 26.646667}
+    - name: UI-Layout-Ideas-HighRes_51
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 856
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47998, y: 35.726685}
+        - {x: -34.47998, y: -35.273315}
+        - {x: 35.52002, y: -35.273315}
+        - {x: 35.52002, y: 35.726685}
+    - name: UI-Layout-Ideas-HighRes_52
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 856
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.206665, y: 35.726685}
+        - {x: -35.206665, y: 33.726685}
+        - {x: -35.206665, y: -35.273315}
+        - {x: 35.793335, y: -35.273315}
+        - {x: 35.793335, y: 35.726685}
+    - name: UI-Layout-Ideas-HighRes_53
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 856
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.006653, y: 32.726685}
+        - {x: -35.006653, y: -32.273315}
+        - {x: 35.993347, y: -32.273315}
+        - {x: 35.993347, y: 30.726685}
+        - {x: 32.993347, y: 32.726685}
+    - name: UI-Layout-Ideas-HighRes_54
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 856
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.45331, y: 35.726685}
+        - {x: -34.45331, y: -35.273315}
+        - {x: 35.54669, y: -35.273315}
+        - {x: 35.54669, y: 35.726685}
+    - name: UI-Layout-Ideas-HighRes_55
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 856
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.179993, y: 32.726685}
+        - {x: -35.179993, y: -32.273315}
+        - {x: 35.820007, y: -32.273315}
+        - {x: 35.820007, y: 30.726685}
+        - {x: 33.820007, y: 32.726685}
+    - name: UI-Layout-Ideas-HighRes_56
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 856
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.97998, y: 35.726685}
+        - {x: -34.97998, y: 33.726685}
+        - {x: -34.97998, y: -35.273315}
+        - {x: 36.02002, y: -35.273315}
+        - {x: 36.02002, y: 35.726685}
+    - name: UI-Layout-Ideas-HighRes_57
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 856
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.426636, y: 32.726685}
+        - {x: -34.426636, y: -32.273315}
+        - {x: 35.573364, y: -32.273315}
+        - {x: 35.573364, y: 30.726685}
+        - {x: 34.573364, y: 32.726685}
+    - name: UI-Layout-Ideas-HighRes_58
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 884
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333252, y: 25.67334}
+        - {x: -25.333252, y: 21.67334}
+        - {x: -25.333252, y: -20.32666}
+        - {x: -13.333252, y: -25.32666}
+        - {x: 23.666748, y: -25.32666}
+        - {x: 26.666748, y: -22.32666}
+        - {x: 26.666748, y: 25.67334}
+    - name: UI-Layout-Ideas-HighRes_59
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 924
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_60
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 866
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4666748, y: 30.993347}
+        - {x: -20.466675, y: 14.993347}
+        - {x: -20.466675, y: -30.006653}
+        - {x: 21.533325, y: -30.006653}
+        - {x: 21.533325, y: 19.993347}
+        - {x: 6.533325, y: 30.993347}
+    - name: UI-Layout-Ideas-HighRes_61
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 866
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.613281, y: 30.993347}
+        - {x: -20.613281, y: -20.006653}
+        - {x: -5.6132812, y: -30.006653}
+        - {x: 9.386719, y: -30.006653}
+        - {x: 21.386719, y: -21.006653}
+        - {x: 21.386719, y: 30.993347}
+    - name: UI-Layout-Ideas-HighRes_62
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 882
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.840088, y: 23.320007}
+        - {x: -10.159912, y: 23.320007}
+        - {x: -28.159912, y: 6.3200073}
+        - {x: -28.159912, y: -8.679993}
+        - {x: -15.159912, y: -22.679993}
+        - {x: 29.840088, y: -22.679993}
+        - {x: 29.840088, y: 21.320007}
+        - {x: 27.840088, y: 22.320007}
+    - name: UI-Layout-Ideas-HighRes_63
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 882
+        width: 132
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.886719, y: 23.320007}
+        - {x: -27.113281, y: 23.320007}
+        - {x: -28.113281, y: 22.320007}
+        - {x: -28.113281, y: -22.679993}
+        - {x: 17.886719, y: -22.679993}
+        - {x: 27.886719, y: -15.679993}
+        - {x: 28.886719, y: -10.679993}
+        - {x: 28.886719, y: 11.320007}
+    - name: UI-Layout-Ideas-HighRes_64
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 650
+        width: 621
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133.54675, y: 122.33334}
+        - {x: 128.54675, y: 126.33334}
+        - {x: -127.45325, y: 126.33334}
+        - {x: -132.45325, y: 122.33334}
+        - {x: -132.45325, y: -121.66666}
+        - {x: -127.45325, y: -125.66666}
+        - {x: 128.54675, y: -125.66666}
+        - {x: 133.54675, y: -121.66666}
+    - name: UI-Layout-Ideas-HighRes_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 767
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_66
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 767
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 767
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_68
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 767
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 767
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_70
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 767
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_71
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 660
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47998, y: 36.100006}
+        - {x: -34.47998, y: -34.899994}
+        - {x: 35.52002, y: -34.899994}
+        - {x: 35.52002, y: 36.100006}
+    - name: UI-Layout-Ideas-HighRes_72
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 660
+        width: 165
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.206665, y: 36.100006}
+        - {x: -35.206665, y: -34.899994}
+        - {x: 35.793335, y: -34.899994}
+        - {x: 35.793335, y: 36.100006}
+    - name: UI-Layout-Ideas-HighRes_73
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 660
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.006653, y: 33.600006}
+        - {x: -35.006653, y: -32.399994}
+        - {x: 35.993347, y: -32.399994}
+        - {x: 35.993347, y: 30.600006}
+        - {x: 31.993347, y: 33.600006}
+    - name: UI-Layout-Ideas-HighRes_74
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 660
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.45331, y: 36.100006}
+        - {x: -34.45331, y: -34.899994}
+        - {x: 35.54669, y: -34.899994}
+        - {x: 35.54669, y: 36.100006}
+    - name: UI-Layout-Ideas-HighRes_75
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 660
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.179993, y: 33.600006}
+        - {x: -35.179993, y: -32.399994}
+        - {x: 35.820007, y: -32.399994}
+        - {x: 35.820007, y: 33.600006}
+    - name: UI-Layout-Ideas-HighRes_76
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 660
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.97998, y: 36.100006}
+        - {x: -34.97998, y: -34.899994}
+        - {x: 36.02002, y: -34.899994}
+        - {x: 36.02002, y: 36.100006}
+    - name: UI-Layout-Ideas-HighRes_77
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 660
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.426636, y: 33.600006}
+        - {x: -34.426636, y: -32.399994}
+        - {x: 35.573364, y: -32.399994}
+        - {x: 35.573364, y: 33.600006}
+    - name: UI-Layout-Ideas-HighRes_78
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 688
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.333252, y: 26.546661}
+        - {x: -25.333252, y: 15.546661}
+        - {x: -25.333252, y: -9.453339}
+        - {x: -20.333252, y: -19.453339}
+        - {x: -10.333252, y: -25.453339}
+        - {x: 13.666748, y: -25.453339}
+        - {x: 26.666748, y: -12.453339}
+        - {x: 26.666748, y: 14.546661}
+        - {x: 18.666748, y: 26.546661}
+    - name: UI-Layout-Ideas-HighRes_79
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 671
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.466675, y: 30.793335}
+        - {x: -20.466675, y: 20.793335}
+        - {x: -20.466675, y: -30.206665}
+        - {x: 21.533325, y: -30.206665}
+        - {x: 21.533325, y: 14.793335}
+        - {x: 11.533325, y: 30.793335}
+    - name: UI-Layout-Ideas-HighRes_80
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 671
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.613281, y: 30.793335}
+        - {x: -20.613281, y: -13.206665}
+        - {x: -4.6132812, y: -30.206665}
+        - {x: 18.386719, y: -30.206665}
+        - {x: 21.386719, y: -19.206665}
+        - {x: 21.386719, y: 30.793335}
+    - name: UI-Layout-Ideas-HighRes_81
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 686
+        width: 134
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.58667, y: 23.693329}
+        - {x: -28.58667, y: 7.693329}
+        - {x: -28.58667, y: -18.306671}
+        - {x: -17.58667, y: -22.306671}
+        - {x: 29.41333, y: -22.306671}
+        - {x: 29.41333, y: 23.693329}
+    - name: UI-Layout-Ideas-HighRes_82
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 686
+        width: 132
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.113281, y: 23.693329}
+        - {x: -28.113281, y: -21.306671}
+        - {x: -27.113281, y: -22.306671}
+        - {x: 19.886719, y: -22.306671}
+        - {x: 28.886719, y: -6.306671}
+        - {x: 28.886719, y: 16.693329}
+        - {x: 16.886719, y: 23.693329}
+    - name: UI-Layout-Ideas-HighRes_83
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 727
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 559
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.126667, y: 27.006668}
+        - {x: -26.126667, y: -25.993332}
+        - {x: 26.873333, y: -25.993332}
+        - {x: 26.873333, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 559
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.153328, y: 27.006668}
+        - {x: -26.153328, y: 22.006668}
+        - {x: -26.153328, y: -24.993332}
+        - {x: -22.153328, y: -25.993332}
+        - {x: 21.846672, y: -25.993332}
+        - {x: 26.846672, y: -21.993332}
+        - {x: 26.846672, y: 22.006668}
+        - {x: 22.846672, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 559
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.679993, y: 27.006668}
+        - {x: -25.679993, y: -24.993332}
+        - {x: -22.679993, y: -25.993332}
+        - {x: 26.320007, y: -25.993332}
+        - {x: 26.320007, y: 26.006668}
+        - {x: 25.320007, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_87
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 559
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.059998, y: 27.006668}
+        - {x: -26.059998, y: -25.993332}
+        - {x: 26.940002, y: -25.993332}
+        - {x: 26.940002, y: 25.006668}
+        - {x: 24.940002, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_88
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 559
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.940002, y: 27.006668}
+        - {x: -25.940002, y: -20.993332}
+        - {x: -19.940002, y: -25.993332}
+        - {x: 27.059998, y: -25.993332}
+        - {x: 27.059998, y: 25.006668}
+        - {x: 24.059998, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_89
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 559
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.966644, y: 27.006668}
+        - {x: -25.966644, y: 23.006668}
+        - {x: -25.966644, y: -21.993332}
+        - {x: -20.966644, y: -25.993332}
+        - {x: 24.033356, y: -25.993332}
+        - {x: 27.033356, y: -20.993332}
+        - {x: 27.033356, y: 24.006668}
+        - {x: 22.033356, y: 27.006668}
+    - name: UI-Layout-Ideas-HighRes_90
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 465
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47998, y: 35.90001}
+        - {x: -34.47998, y: -35.09999}
+        - {x: 33.52002, y: -35.09999}
+        - {x: 35.52002, y: -33.09999}
+        - {x: 35.52002, y: 33.90001}
+        - {x: 32.52002, y: 35.90001}
+    - name: UI-Layout-Ideas-HighRes_91
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 465
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.206665, y: 35.90001}
+        - {x: -35.206665, y: -35.09999}
+        - {x: 35.793335, y: -35.09999}
+        - {x: 35.793335, y: 33.90001}
+        - {x: 33.793335, y: 35.90001}
+    - name: UI-Layout-Ideas-HighRes_92
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 465
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.006653, y: 32.90001}
+        - {x: -35.006653, y: 29.90001}
+        - {x: -35.006653, y: -29.09999}
+        - {x: -33.006653, y: -32.09999}
+        - {x: 32.993347, y: -32.09999}
+        - {x: 35.993347, y: -29.09999}
+        - {x: 35.993347, y: 29.90001}
+        - {x: 32.993347, y: 32.90001}
+    - name: UI-Layout-Ideas-HighRes_93
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 465
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.45331, y: 35.90001}
+        - {x: -34.45331, y: -35.09999}
+        - {x: 33.54669, y: -35.09999}
+        - {x: 35.54669, y: -33.09999}
+        - {x: 35.54669, y: 33.90001}
+        - {x: 32.54669, y: 35.90001}
+    - name: UI-Layout-Ideas-HighRes_94
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 465
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.179993, y: 32.90001}
+        - {x: -35.179993, y: -32.09999}
+        - {x: 35.820007, y: -32.09999}
+        - {x: 35.820007, y: 32.90001}
+    - name: UI-Layout-Ideas-HighRes_95
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 465
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.97998, y: 35.90001}
+        - {x: -34.97998, y: -35.09999}
+        - {x: 36.02002, y: -35.09999}
+        - {x: 36.02002, y: 35.90001}
+    - name: UI-Layout-Ideas-HighRes_96
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 465
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.426636, y: 32.90001}
+        - {x: -34.426636, y: -32.09999}
+        - {x: 35.573364, y: -32.09999}
+        - {x: 35.573364, y: 32.90001}
+    - name: UI-Layout-Ideas-HighRes_97
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 493
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.333252, y: 26.346664}
+        - {x: -25.333252, y: 16.346664}
+        - {x: -25.333252, y: -16.653336}
+        - {x: -24.333252, y: -19.653336}
+        - {x: -19.333252, y: -25.653336}
+        - {x: 16.666748, y: -25.653336}
+        - {x: 26.666748, y: -21.653336}
+        - {x: 26.666748, y: 15.346664}
+        - {x: 19.666748, y: 26.346664}
+    - name: UI-Layout-Ideas-HighRes_98
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 533
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_99
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 474
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4666748, y: 30.740005}
+        - {x: -20.466675, y: 14.7400055}
+        - {x: -20.466675, y: -30.259995}
+        - {x: 21.533325, y: -30.259995}
+        - {x: 21.533325, y: 19.740005}
+        - {x: 6.533325, y: 30.740005}
+    - name: UI-Layout-Ideas-HighRes_100
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 474
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.613281, y: 30.740005}
+        - {x: -20.613281, y: 29.740005}
+        - {x: -20.613281, y: -20.259995}
+        - {x: -5.6132812, y: -30.259995}
+        - {x: 12.386719, y: -30.259995}
+        - {x: 21.386719, y: -17.259995}
+        - {x: 21.386719, y: 30.740005}
+    - name: UI-Layout-Ideas-HighRes_101
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 491
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.159912, y: 23.493332}
+        - {x: -28.159912, y: 9.493332}
+        - {x: -28.159912, y: -5.506668}
+        - {x: -14.159912, y: -22.506668}
+        - {x: 29.840088, y: -22.506668}
+        - {x: 29.840088, y: 23.493332}
+    - name: UI-Layout-Ideas-HighRes_102
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 491
+        width: 132
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.886719, y: 23.493332}
+        - {x: -28.113281, y: 23.493332}
+        - {x: -28.113281, y: -22.506668}
+        - {x: 12.886719, y: -22.506668}
+        - {x: 28.886719, y: -10.506668}
+        - {x: 28.886719, y: 8.493332}
+        - {x: 24.886719, y: 20.493332}
+    - name: UI-Layout-Ideas-HighRes_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 423
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_104
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 423
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_105
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 423
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_106
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 423
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_107
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 423
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_108
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 423
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_109
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 268
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.47998, y: 36.346672}
+        - {x: -34.47998, y: 34.346672}
+        - {x: -34.47998, y: -32.653328}
+        - {x: -31.47998, y: -35.653328}
+        - {x: 35.52002, y: -35.653328}
+        - {x: 35.52002, y: 36.346672}
+    - name: UI-Layout-Ideas-HighRes_110
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 268
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.206665, y: 36.346672}
+        - {x: -35.206665, y: -35.653328}
+        - {x: 35.793335, y: -35.653328}
+        - {x: 35.793335, y: 36.346672}
+    - name: UI-Layout-Ideas-HighRes_111
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 268
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.45331, y: -34.653328}
+        - {x: -33.45331, y: -35.653328}
+        - {x: 35.54669, y: -35.653328}
+        - {x: 35.54669, y: 36.346672}
+        - {x: -31.453308, y: 36.346672}
+        - {x: -34.45331, y: 33.346672}
+    - name: UI-Layout-Ideas-HighRes_112
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 268
+        width: 164
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.97998, y: 36.346672}
+        - {x: -34.97998, y: -35.653328}
+        - {x: 36.02002, y: -35.653328}
+        - {x: 36.02002, y: 36.346672}
+    - name: UI-Layout-Ideas-HighRes_113
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 233
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.846672, y: 26.913338}
+        - {x: -26.153328, y: 26.913338}
+        - {x: -26.153328, y: -24.086662}
+        - {x: -21.153328, y: -26.086662}
+        - {x: 19.846672, y: -26.086662}
+        - {x: 25.846672, y: -22.086662}
+        - {x: 26.846672, y: -19.086662}
+    - name: UI-Layout-Ideas-HighRes_114
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 233
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.679993, y: 26.913338}
+        - {x: -25.679993, y: 22.913338}
+        - {x: -25.679993, y: -26.086662}
+        - {x: 25.320007, y: -26.086662}
+        - {x: 26.320007, y: -24.086662}
+        - {x: 26.320007, y: 22.913338}
+        - {x: 22.320007, y: 26.913338}
+    - name: UI-Layout-Ideas-HighRes_115
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 233
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.059998, y: 26.913338}
+        - {x: -26.059998, y: 24.913338}
+        - {x: -26.059998, y: -26.086662}
+        - {x: 26.940002, y: -26.086662}
+        - {x: 26.940002, y: 23.913338}
+        - {x: 22.940002, y: 26.913338}
+    - name: UI-Layout-Ideas-HighRes_116
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 233
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.940002, y: 26.913338}
+        - {x: -25.940002, y: 21.913338}
+        - {x: -25.940002, y: -26.086662}
+        - {x: 27.059998, y: -26.086662}
+        - {x: 27.059998, y: 26.913338}
+    - name: UI-Layout-Ideas-HighRes_117
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 233
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.966644, y: 26.913338}
+        - {x: -25.966644, y: -26.086662}
+        - {x: 25.033356, y: -26.086662}
+        - {x: 27.033356, y: -25.086662}
+        - {x: 27.033356, y: 23.913338}
+        - {x: 21.033356, y: 26.913338}
+    - name: UI-Layout-Ideas-HighRes_118
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 268
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.006653, y: 33.346672}
+        - {x: -35.006653, y: -32.653328}
+        - {x: 35.993347, y: -32.653328}
+        - {x: 35.993347, y: 33.346672}
+    - name: UI-Layout-Ideas-HighRes_119
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 268
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.179993, y: 33.346672}
+        - {x: -35.179993, y: -32.653328}
+        - {x: 35.820007, y: -32.653328}
+        - {x: 35.820007, y: 31.346672}
+        - {x: 33.820007, y: 33.346672}
+    - name: UI-Layout-Ideas-HighRes_120
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 268
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.426636, y: 33.346672}
+        - {x: -34.426636, y: -32.653328}
+        - {x: 35.573364, y: -32.653328}
+        - {x: 35.573364, y: 33.346672}
+    - name: UI-Layout-Ideas-HighRes_121
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 296
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.333252, y: 26.293335}
+        - {x: -25.333252, y: 22.293335}
+        - {x: -25.333252, y: -12.706665}
+        - {x: -20.333252, y: -25.706665}
+        - {x: 21.666748, y: -25.706665}
+        - {x: 26.666748, y: -19.706665}
+        - {x: 26.666748, y: 15.293335}
+        - {x: 23.666748, y: 26.293335}
+    - name: UI-Layout-Ideas-HighRes_122
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 337
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_123
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 280
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4666748, y: 30.966667}
+        - {x: -20.466675, y: 14.966667}
+        - {x: -20.466675, y: -30.033333}
+        - {x: 21.533325, y: -30.033333}
+        - {x: 21.533325, y: 19.966667}
+        - {x: 6.533325, y: 30.966667}
+    - name: UI-Layout-Ideas-HighRes_124
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 280
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.613281, y: 30.966667}
+        - {x: -20.613281, y: -18.033333}
+        - {x: -5.6132812, y: -30.033333}
+        - {x: 7.3867188, y: -30.033333}
+        - {x: 21.386719, y: -16.033333}
+        - {x: 21.386719, y: 30.966667}
+    - name: UI-Layout-Ideas-HighRes_125
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 296
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.159912, y: 23.293335}
+        - {x: -28.159912, y: 7.293335}
+        - {x: -28.159912, y: -18.706665}
+        - {x: -16.159912, y: -22.706665}
+        - {x: 29.840088, y: -22.706665}
+        - {x: 29.840088, y: 23.293335}
+    - name: UI-Layout-Ideas-HighRes_126
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 296
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.113281, y: 23.293335}
+        - {x: -28.113281, y: -22.706665}
+        - {x: 20.886719, y: -22.706665}
+        - {x: 28.886719, y: -14.706665}
+        - {x: 28.886719, y: 8.293335}
+        - {x: 22.886719, y: 23.293335}
+    - name: UI-Layout-Ideas-HighRes_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_128
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 100
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_129
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 100
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_130
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 100
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_131
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 100
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_132
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 100
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UI-Layout-Ideas-HighRes_133
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 74
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.47998, y: 36.073334}
+        - {x: -34.47998, y: -34.926666}
+        - {x: 35.52002, y: -34.926666}
+        - {x: 35.52002, y: 36.073334}
+    - name: UI-Layout-Ideas-HighRes_134
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 74
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.206665, y: 36.073334}
+        - {x: -35.206665, y: -34.926666}
+        - {x: 35.793335, y: -34.926666}
+        - {x: 35.793335, y: 36.073334}
+    - name: UI-Layout-Ideas-HighRes_135
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 74
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.006653, y: 33.073334}
+        - {x: -35.006653, y: -31.926666}
+        - {x: 35.993347, y: -31.926666}
+        - {x: 35.993347, y: 33.073334}
+    - name: UI-Layout-Ideas-HighRes_136
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 74
+        width: 162
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.45331, y: 36.073334}
+        - {x: -34.45331, y: -34.926666}
+        - {x: 35.54669, y: -34.926666}
+        - {x: 35.54669, y: 36.073334}
+    - name: UI-Layout-Ideas-HighRes_137
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 74
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.179993, y: 33.073334}
+        - {x: -35.179993, y: -31.926666}
+        - {x: 35.820007, y: -31.926666}
+        - {x: 35.820007, y: 33.073334}
+    - name: UI-Layout-Ideas-HighRes_138
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 74
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.97998, y: 36.073334}
+        - {x: -34.97998, y: -34.926666}
+        - {x: 36.02002, y: -34.926666}
+        - {x: 36.02002, y: 33.073334}
+        - {x: 33.02002, y: 36.073334}
+    - name: UI-Layout-Ideas-HighRes_139
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 74
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.426636, y: 33.073334}
+        - {x: -34.426636, y: -31.926666}
+        - {x: 35.573364, y: -31.926666}
+        - {x: 35.573364, y: 33.073334}
+    - name: UI-Layout-Ideas-HighRes_140
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 102
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.333252, y: 26.52}
+        - {x: -25.333252, y: 17.52}
+        - {x: -25.333252, y: -16.48}
+        - {x: -22.333252, y: -25.48}
+        - {x: 13.666748, y: -25.48}
+        - {x: 17.666748, y: -24.48}
+        - {x: 26.666748, y: -20.48}
+        - {x: 26.666748, y: 22.52}
+        - {x: 17.666748, y: 26.52}
+    - name: UI-Layout-Ideas-HighRes_141
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 83
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.466675, y: 30.913334}
+        - {x: -19.466675, y: 25.913334}
+        - {x: -20.466675, y: 23.913334}
+        - {x: -20.466675, y: -30.086666}
+        - {x: 19.533325, y: -30.086666}
+        - {x: 21.533325, y: -29.086666}
+        - {x: 21.533325, y: 19.913334}
+        - {x: 11.533325, y: 30.913334}
+    - name: UI-Layout-Ideas-HighRes_142
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 83
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.613281, y: 30.913334}
+        - {x: -20.613281, y: -19.086666}
+        - {x: -5.6132812, y: -30.086666}
+        - {x: 7.3867188, y: -30.086666}
+        - {x: 21.386719, y: -21.086666}
+        - {x: 21.386719, y: 30.913334}
+    - name: UI-Layout-Ideas-HighRes_143
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 100
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.159912, y: 23.666668}
+        - {x: -28.159912, y: 8.666668}
+        - {x: -28.159912, y: -17.333332}
+        - {x: -13.159912, y: -22.333332}
+        - {x: 29.840088, y: -22.333332}
+        - {x: 29.840088, y: 23.666668}
+    - name: UI-Layout-Ideas-HighRes_144
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 100
+        width: 132
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.113281, y: 23.666668}
+        - {x: -28.113281, y: -22.333332}
+        - {x: 16.886719, y: -22.333332}
+        - {x: 28.886719, y: -7.333332}
+        - {x: 28.886719, y: 9.666668}
+        - {x: 14.886719, y: 23.666668}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
