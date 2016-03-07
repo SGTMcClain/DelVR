@@ -40,5 +40,9 @@ public class UI_Buttons : MonoBehaviour {
 
 	}
 
+	public void MainMenu(){
+		SceneManager.LoadScene (0);
+	}
+
 	//public static void LoadScene(int sceneBuildIndex, SceneManagement.LoadSceneMode mode = LoadSceneMode.Single);
 }
