@@ -44,5 +44,9 @@ public class UI_Buttons : MonoBehaviour {
 		SceneManager.LoadScene (0);
 	}
 
+	public void Feedback(){
+		Application.OpenURL ("http://goo.gl/forms/szdeyLl4lz");
+	}
+
 	//public static void LoadScene(int sceneBuildIndex, SceneManagement.LoadSceneMode mode = LoadSceneMode.Single);
 }
