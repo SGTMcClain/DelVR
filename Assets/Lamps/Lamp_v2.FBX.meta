@@ -1,22 +1,17 @@
 fileFormatVersion: 2
-guid: fb7f019c10976db4aa2cbce6e91dba44
-timeCreated: 1458502038
+guid: 93744f8417c9f9245a64cdcf59015d4b
+timeCreated: 1459146253
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Cylinder001
-    100002: Cylinder002
-    100004: //RootNode
-    400000: Cylinder001
-    400002: Cylinder002
-    400004: //RootNode
-    2300000: Cylinder001
-    2300002: Cylinder002
-    3300000: Cylinder001
-    3300002: Cylinder002
-    4300000: Cylinder001
-    4300002: Cylinder002
+    100000: Lamp001
+    100002: //RootNode
+    400000: Lamp001
+    400002: //RootNode
+    2300000: Lamp001
+    3300000: Lamp001
+    4300000: Lamp001
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -42,7 +37,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.6
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
