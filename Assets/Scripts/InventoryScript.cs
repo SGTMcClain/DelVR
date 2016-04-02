@@ -22,7 +22,15 @@ public class InventoryScript : MonoBehaviour {
 	//
 	//}
 
-	//From the itemScript, this function can get called. It changes the boolean variable to true then displays it in the console.
+	void Start()
+	{
+		//This will generate a random number between 1 and 4, we might be able to use this number based on item groups that will be set active
+		int randomNumber;
+		randomNumber = Random.Range (1, 5);
+		Debug.Log ("Random Number Test: " + randomNumber);
+	}
+
+	//When these functions gets called, change the corresponding variable to true. - Debug.Logs are for testing
 	public void getFireExtinguisher()
 	{
 		hasFireExtinguisher = true;
@@ -77,15 +85,21 @@ public class InventoryScript : MonoBehaviour {
 		Debug.Log ("You now have the Sunscreen");
 	}
 
+	public void getCrutches()
+	{
+		hasCrutches = true;
+		Debug.Log ("You now have the Crutches");
+	}
+
 	//This is an alternate way to display the information that might possible result in less lines of code needing to be written.
 	//Alternately, in the item script, it is making hasCrutches true in this script, then calling the displayInformation() function.
-	public void displayInformation()
-	{
-		if (hasCrutches) 
-		{
-			Debug.Log ("You now have the Crutches");
-		}
-	}
+	//public void displayInformation()
+	//{
+	//	if (hasCrutches) 
+	//	{
+	//		Debug.Log ("You now have the Crutches");
+	//	}
+	//}
 
 	// Update is called once per frame
 	//void Update () {
